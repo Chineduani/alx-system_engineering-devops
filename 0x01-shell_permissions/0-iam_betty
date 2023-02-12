@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#changing user to betty
+
+echo 'sudo betty'
