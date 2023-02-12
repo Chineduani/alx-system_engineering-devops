@@ -1,0 +1,3 @@
+#!/bin/bash
+#the current user
+echo 'root'
